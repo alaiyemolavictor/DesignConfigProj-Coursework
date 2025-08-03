@@ -1,0 +1,59 @@
+# This file is in YAML format.  You must ensure that the punctuation
+# and whitespace is preserved.  Also, beware of ':' and quotation mark
+# characters: these have meaning in YAML and so must be "escaped" by
+# enclosing the entire field in (single) quotation marks, or using the multi-line string formatting characters ('|' for preserving newlines, '>' for folding newlines).
+# See the YAML specification  (https://yaml.org/spec/1.2.2/) or the wikipedia page about YAML (https://en.wikipedia.org/wiki/YAML).
+# Also, Educative has a nice YAML tutorial (https://www.educative.io/blog/yaml-tutorial) that gives a nice rationale for learning YAML.
+
+# Do NOT use Windows Notepad to edit this file; use a real programming
+# editor like Notepad++ instead.
+
+# Write your group name exactly as it appears on Canvas.
+group: Group_15
+
+# Write the names of your group members as a comma-separated list
+# within the square brackets.
+members: [Masroor-Ul Badar Asad, Krishna Patel, Victor Femi Alaiyemola]
+
+# Write the name of the use case
+name: Purchase In-Flight Services 
+
+# Write the name(s) of the actor(s), as a YAML list.
+actors: 
+- Passenger
+- KVM Airlines In-Flight System
+- Flight Attendants
+- Payment Processing System
+
+# Write the precondition(s) that must be true before the use case can *begin*, as a YAML list.
+preconditions:
+- The KVM Airlines in-flight system is operational : True 
+- The passenger is onboard a KVM Airlines flight : True
+- The passenger has a valid payment method : True
+
+
+
+
+# Write the "typical course of events" as a YAML list.
+tce:
+- This use case begins when the passenger browses available services (eg. Wi-Fi, seat upgrades, entertainment) via the in-flight system.
+
+- The system responds by displaying the available services with prices.
+
+- The passenger selects desired items and proceeds to checkout.
+
+- The system processes the payment using the passenger's selected payment method.
+
+- The flight attendants are notified of the purchase.
+
+- The passenger receives the purchased item or service.
+
+- The system updates the passenger's receipt and sends a confirmation email.
+
+# Write any alternate actions to the typical course of events, as a YAML list.
+alternatives:
+- If payment fails, the system prompts the passenger to retry or use an alternative method.
+
+- If the selected service is unavailable, the system suggests alternative options.
+
+- If there is an issue with the order, the passenger can request assistance from a flight attendant.

@@ -1,0 +1,164 @@
+# This file is in YAML format.  You must ensure that the punctuation
+# and whitespace is preserved.  Also, beware of ':' and quotation mark
+# characters: these have meaning in YAML and so must be "escaped" by
+# enclosing the entire field in (single) quotation marks, or using the multi-line string formatting characters ('|' for preserving newlines, '>' for folding newlines).
+# See the YAML specification  (https://yaml.org/spec/1.2.2/) or the wikipedia page about YAML (https://en.wikipedia.org/wiki/YAML).
+# Also, Educative has a nice YAML tutorial (https://www.educative.io/blog/yaml-tutorial) that gives a nice rationale for learning YAML.
+
+# Do NOT use Windows Notepad to edit this file; use a real programming
+# editor like Notepad++ instead.
+
+# Write your group name exactly as it appears on Canvas.
+group: Group_15 
+
+# Write the names of your group members as a comma-separated list
+# within the square brackets.
+members: [Masroor-Ul Badar Asad, Krishna Patel, Victor Femi Alaiyemola]
+
+# Write a short description of your application
+topic: Competitive Analysis of the five forces for 'KVM Airline' (Our creation of an airline with its own website)
+
+# For the following sections, you may write multiple paragraphs, each
+# with multiple lines, under the key. But be sure *every* line is
+# indented at the same level as the first line under the key (see
+# `example.yml` for examples).
+
+# Note that the '>' character means the text spanning multiple lines
+# should be concatenated into a single paragraph.  Paragraphs are
+# separated by blank lines, and *all* lines must be indented.
+
+# Write your assessment of the rivalry between existing competitors.
+competitor_rivalry: > 
+ Rivalry between existing competitors in short-haul aviation,
+ with low-cost airlines is also extremely high, this is because major 
+ short-hall flight operators like SkyJet and FlySwift already operate 100 
+ plus destinations across Europe. Ultimately that indicates a “war” amongst
+ the organisations on who can invite more customers to their business. An initial 
+ way of being competitive is by offering edge to edge prices to customers as well as
+ having successful marketing campaign. For instance, FlySwift added a new goodie bag
+ for customers in their new marketing commercial, which increased their sales by 22.87% 
+ for July, however because of this Skyjet and WizAir lost almost 10% of their sales in
+ that month. Since the price was not much different customers and as people had 
+ the choice of different airlines (FF – Threat of Substitute). Although, if one
+ organisation does a strategy like this, it is possible for other companies to 
+ retaliate appropriately. For August, WizAir offered a new loyalty program
+ which gave their loss a new profit of 5.3%, which later decreased FlySwifts
+ campaign for that month.  For new entrants like KVM, their capture of the market
+ share would be more difficult as other companies will also focus on 1 to 1 innovation
+ within their product or service, and as those companies have a much higher
+ brand identity more customers are likely going to pick them. 
+
+# Write your assessment of the threat of new entrants.
+new_entrant_threat: >   
+  The threat of new entrants for KVM Airlines, which operates
+  short-haul flights as well as following a low-cost sector,
+  is incredibly high. This is because airlines like Skyjet
+  and Flyswift has established a well-renowned reputation
+  in front of customers who use the service frequently or
+  for holidays. For KVM entering a market such as the aviation
+  industry (solely focusing on short haul flights), requires
+  them overcoming massive barriers such as high startup costs
+  (Maintenances, airport slots), aviation licences, safety
+  standards, and compliance with the EU regulations. However,
+  that is just the beginning, they still must construct a
+  strong customer base which brings cost up substantially.
+  KVM can influence the market by establishing competitive
+  prices, improving the customer experience, or focusing on
+  underdeveloped routes. However, well-established competitors
+  such as Skyjet and Flyswift already have loyal clients and
+  vast networks, making it difficult for new entrants to
+  immediately achieve a major market share. To counter the
+  competing challenges, KVM will need to provide a convincing
+  value proposition and unique identities (such as innovation)
+  to bring a “spark” within their product and service, one example
+  of this could be: a more flourished customer experience at the
+  airport
+
+# Write your assessment of the threat of substitute products or services.
+substitute_threat: >
+  The threat of substitutes for KVM or any airline in the short-hall aviation
+  market is highly aggressive. For instance, if other airlines offer significant
+  rewards or perks (as mentioned in the force above), customers have the option
+  to choose the most convenient choice of airline. However, this force doesn't
+  only impact a significant airline but also the market itself. How does this
+  impact the short-hall market? Well, new modes of transport can heavily decrease
+  the share. Currently, trips to Paris and surrounding countries have decreased
+  from air travel as the Eurotunnel made its move for passengers. Such things are
+  going to initiate more within the future, as the UK government sees opportunities
+  to connect the country with a train straight to New York (even though it's not a
+  short hall impact it still can cause more countries to develop it to save carbon emissions).
+  Major airlines know about this and will prepare a solution to the problem in hand,
+  One-way Skyjet improved this was with implementing a scheme where people can buy a
+  group ticket for “more less than ever”. The ease of switching between providers and
+  the availability of alternatives increase the threat of substitution, making it more
+  difficult for a new entrant like KVM to establish a foothold in the market.
+
+# Write your assessment of the bargaining power of customers.  
+customer_power: >
+  In the short-haul aviation market, the bargaining power of customers
+  is high because of the low prices airlines offer. With many airlines
+  competing for sales and reducing their price tags on travel, customers 
+  can compare and choose the best choice (FF – Threat of Substitutes). Additionally, 
+  loyalty programs and point advantages give customers a better ability
+  to make informed decisions. Currently, travel agents and holiday
+  organizations include flight options for customers, which bundle the 
+  flight with the price of their holiday. In the eyes of customers, this
+  makes them feel more appreciated and welcomed. Not only this, but since
+  the aviation market itself restricts airlines from increasing prices
+  (amid economic changes) due to competitive rivalry, customers tend to use
+  short-haul travel for more of their holidays. Airline organisations use 
+  innovation to attract customers. For example, WizAir implemented a discount 
+  on children’s tickets, which, in the eyes of customers, was a perfect solution 
+  for better and cheaper travel. For a new entrant like KVM, they should focus more 
+  on how to meet customer needs and wants and how they can implement this in their
+  business. Better seat comfort or a private lounge can be a good option for KVM to use.
+  Customers tend to like things which have better quality and does not cost them much more.
+  In a long-term approach, it can strengthen the Airlines share in the market. 
+
+# Write your assessment of the bargaining power of suppliers.
+supplier_power: >
+  Due of the shortage of suppliers for vital services such as
+  aircraft, fuel, and airport facilities, suppliers in the
+  short-haul aviation market can have significant bargaining
+  strength. Airlines are frequently reliant on a few large
+  aircraft suppliers, such as Boeing and Airbus, limiting
+  their ability to negotiate reduced rates or change suppliers
+  quickly. Similarly, fuel providers hold considerable leverage,
+  as the cost of aviation fuel can account for a big amount of
+  an airline's operating expenses (costs more on short-haul
+  flights). With shifting worldwide fuel prices, airlines have
+  limited control over this expense. Furthermore, airports, which
+  are frequently owned by a few major corporations, can charge
+  hefty fees for landing and terminal services. Since short-haul
+  aircrafts are used more regularly, it's possible that the cost
+  of Maintenances will increase, and the aircrafts must also be
+  safe to fly. FlyShift must Maintenances each aircraft every
+  month. For KVM, supplier costs could cut profits and even
+  proportion of market share. Some suppliers may benefit more
+  to certain airlines because of their certainty.
+
+# Write your conclusion regarding the appropriate competitive strategy to pursue, based on
+# your assessments above.
+competitive_strategy: >
+  Based on the analysis of the five forces, KVM airlines can face
+  many challenges in the competitive short-haul aviation market, this
+  is indicated from the massive rivalries between existing organisations,
+  the bargaining powers of customers and suppliers, and the threat of
+  substitutes. However, as there are challenges there are also ways to
+  succeed, for instance KVM must follow the different strategies. They
+  need to have a successful marketing campaign so more people can see
+  what the business offers and how it is unique compared to other companies
+  like FlySwift and Skyjet. With this they also need to follow a proper
+  customer service experience, such as better seat quality, better travel,
+  perks and lounges. Supplier costs will always be a massive issue, since
+  they are limited number of suppliers, so KVM must spend rationally to
+  still get the best quality. The market will thrive on the more customers
+  it would get, and competitors' rivalry will expand and give room for
+  appropriate and healthy competition. However, the threat of substitutes
+  can impact the entire market, forcing airlines to adapt, with that the
+  organisation must produce enough environmental changes (low emission
+  aircrafts) and perks for customers to entirely choose them. KVM can also
+  succeed if they also implement a cost leadership. What this means that if
+  they become one of the cheapest but most reliable airline, it gives them
+  better accumulative feedback overall. 
+
