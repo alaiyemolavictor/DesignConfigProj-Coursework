@@ -1,1 +1,1 @@
-# DesignConfigProj-Couresework
+# DesignConfigProj-Coursework
